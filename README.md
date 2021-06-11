@@ -16,3 +16,8 @@ install from the requirements.txt
 
 `python eval.py --input_file='insert-path-to-text-data-here' --model_directory='insert-path-to-pretained-model-here'  --model_arch_name='name-of-the-gpt2-model' --num_of_samples='num-of-samples-to-generate`
 
+## Notebook
+
+This folder contains colab notebook that guide you through the summarization by GPT-2. You should be able to [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rohitashwa1907/Text-Summarization-Using-GPT2/blob/main/Notebook/GPT2_Summarizer.ipynb)
+, and play with your data. 
+
